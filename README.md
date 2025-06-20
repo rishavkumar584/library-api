@@ -18,16 +18,16 @@ A RESTful API for managing a collection of books using **Node.js**, **Express.js
 library-api/
 │
 ├── models/
-│ └── Book.js # Mongoose schema for books
+│   └── Book.js             # Mongoose schema for books
 │
 ├── routes/
-│ └── books.js # Express router with CRUD APIs
+│   └── books.js            # Express router with CRUD APIs
 │
-├── .env.example # Template for environment variables
-├── .gitignore # Ignores node_modules and sensitive files
-├── package.json # Project metadata and dependencies
-├── server.js # Entry point for the Express server
-└── test_book_api.sh # Shell script to test the API (optional)
+├── .env.example            # Template for environment variables
+├── .gitignore              # Ignores node_modules and sensitive files
+├── package.json            # Project metadata and dependencies
+├── server.js               # Entry point for the Express server
+└── test_book_api.sh        # Shell script to test the API (optional)
 
 
 ---
