@@ -35,7 +35,7 @@ A RESTful API for managing a collection of books using **Node.js**, **Express.js
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
-   ```bash
+   bash
    git clone https://github.com/rishavkumar584/library-api.git
    cd library-api
 
