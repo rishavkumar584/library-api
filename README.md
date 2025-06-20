@@ -4,12 +4,12 @@ A RESTful API for managing a collection of books using **Node.js**, **Express.js
 
 ## Features
 
-- ✅ Create a new book entry
-- ✅ Retrieve all books
-- ✅ Update a book’s information
-- ✅ Delete a book
-- 🧪 Tested with `curl` and shell script
-- 🔒 `.env` configuration for MongoDB URI
+-  Create a new book entry
+-  Retrieve all books
+-  Update a book’s information
+-  Delete a book
+-  Tested with `curl` and shell script
+-  `.env` configuration for MongoDB URI
 
 ---
 
@@ -93,4 +93,4 @@ curl -X DELETE http://localhost:3000/books/<BOOK_ID>
 - ODM: Mongoose
 - Environment Config: dotenv
 
-# Enjoyed making it!!!
+Enjoyed making it!!!
